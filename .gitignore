@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.exe
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary folders
+Cpp-/
+31hr C++/
